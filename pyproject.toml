@@ -1,9 +1,7 @@
 [project]
 name = "streamlit-demo-social"
 version = "0.1.0"
-description = "1. using this as an excuse to learn streamlit
-2. planning on making an automatic video and post generator. 
-3. first building a front end using streamlit"
+description = "1. using this as an excuse to learn streamlit 2. planning on making an automatic video and post generator. 3. first building a front end using streamlit"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
